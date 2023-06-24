@@ -1,0 +1,12 @@
+@charset "UTF-8";
+fieldset#A {
+     position: absolute;
+     left: 600px;
+     top: 90px;
+     text-align: center;
+     background-color: rgb(162, 190, 190);
+}
+
+fieldset#A input#B {
+     background-color: #0066cc;
+}
